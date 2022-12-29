@@ -11,3 +11,4 @@ C:\Users\irfanfy\source\repos\Task3.3\Task3.3\obj\Debug\netcoreapp3.1\Task3.3.cs
 C:\Users\irfanfy\source\repos\Task3.3\Task3.3\obj\Debug\netcoreapp3.1\Task3.3.dll
 C:\Users\irfanfy\source\repos\Task3.3\Task3.3\obj\Debug\netcoreapp3.1\Task3.3.pdb
 C:\Users\irfanfy\source\repos\Task3.3\Task3.3\obj\Debug\netcoreapp3.1\Task3.3.genruntimeconfig.cache
+C:\Users\irfanfy\source\repos\Task3.3\Task3.3\obj\Debug\netcoreapp3.1\Task3.3.csproj.AssemblyReference.cache
